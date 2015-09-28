@@ -3,8 +3,13 @@
 - title: Archive
   url: /archive/
 
+- title: Tags
+  url: /tags/
+
 - title: About
   url: /about/
+
+
 
 # - title: Sample Posts
 #   url: /posts/
