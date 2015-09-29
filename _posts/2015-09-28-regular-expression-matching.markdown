@@ -3,7 +3,7 @@ layout: post
 title: "Regular Expression Matching"
 modified:
 categories: 
-excerpt: DP solution to LeetCode hard problem to implement basic RE
+excerpt: DP solution to LeetCode hard problem to implement basic RE.
 tags: [java, leetcode, hard, dp]
 date: 2015-09-28T15:58:06-04:00
 comments: true
